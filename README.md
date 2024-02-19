@@ -9,6 +9,6 @@ Features:
 4. Admins can monitor orders and manage the system
 
 Technologies:
-Frontend: HTML, CSS, Bootstrap
-Backend: PHP
-Database: MySQL (Xampp Server)
+1. Frontend: HTML, CSS, Bootstrap
+2. Backend: PHP
+3. Database: MySQL (Xampp Server)
