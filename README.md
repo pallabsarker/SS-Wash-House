@@ -1,5 +1,5 @@
 # Wash House Management System
-##Name: SS Wash House
+## Name: SS Wash House
 _**This project is an online laundry (clothe wash) ordering system for SS Wash House.**_
 
 **Features:**
