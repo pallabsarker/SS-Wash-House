@@ -1,5 +1,5 @@
 # Wash House Management System
-##Name: SS Wash House##
+##Name: SS Wash House
 **This project is an online laundry (clothe wash) ordering system for SS Wash House.**
 
 Features:
@@ -8,9 +8,10 @@ Features:
 3. Specify garment/owner details and payment method (cash on delivery)
 4. Admins can monitor orders and manage the system
 
-Technologies:
 ```
+Technologies:
 Frontend: HTML, CSS, Bootstrap
 Backend: PHP
 Database: MySQL (Xampp Server)
 ```
+
