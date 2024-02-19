@@ -1,8 +1,7 @@
 # Wash House Management System
 ## Name: SS Wash House
 _**This project is an online laundry (clothe wash) ordering system for SS Wash House.**_
-
-<br/>
+##
 **Features:**
 1. Customers can register, login, and order laundry services
 2. Select from various wash types and add quantities (from Cart)
