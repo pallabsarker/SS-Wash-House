@@ -17,12 +17,10 @@ _**This project is an online laundry (clothe wash) ordering system for SS Wash H
 
 ##
 **Different Pages:**
-1. Home Page
-![Screenshot of the Home Page of "Wash House Management System" Project.](https://github.com/pallabsarker/Wash_House_Management_System/blob/main/Screenshots/Screenshot_Home.png)
+1. Home Page ![Screenshot of the Home Page of "Wash House Management System" Project.](https://github.com/pallabsarker/Wash_House_Management_System/blob/main/Screenshots/Screenshot_Home.png)
 
 
-2. Registration and Login Page
-![Screenshot of the Registration Page of "Wash House Management System" Project.](https://github.com/pallabsarker/Wash_House_Management_System/blob/main/Screenshots/Screenshot_Registration.png)
+2. Registration and Login Page ![Screenshot of the Registration Page of "Wash House Management System" Project.](https://github.com/pallabsarker/Wash_House_Management_System/blob/main/Screenshots/Screenshot_Registration.png)
 ![Screenshot of the Login Page of "Wash House Management System" Project.](https://github.com/pallabsarker/Wash_House_Management_System/blob/main/Screenshots/Screenshot_Login.png)
 
 
