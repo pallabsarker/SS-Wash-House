@@ -8,10 +8,10 @@ Features:
 3. Specify garment/owner details and payment method (cash on delivery)
 4. Admins can monitor orders and manage the system
 
-```
 Technologies:
-Frontend: HTML, CSS, Bootstrap
-Backend: PHP
-Database: MySQL (Xampp Server)
-```
+->Frontend: HTML, CSS, Bootstrap
+->Backend: PHP
+->Database: MySQL (Xampp Server)
 
+1. Home Page
+![Screenshot of the Home Page of "Wash House Management System" Project.](https://github.com/pallabsarker/Wash_House_Management_System/blob/main/Screenshot_Home.png)
