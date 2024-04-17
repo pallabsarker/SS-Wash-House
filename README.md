@@ -16,7 +16,7 @@ _**This project is an online laundry (clothe wash) ordering system for SS Wash H
 * Database: MySQL (Xampp Server)
 
 ##
-**Different Pages:**
+**Screenshots of different pages:**
 1. Home Page 
 
 ![Screenshot of the Home Page of "Wash House Management System" Project.](https://github.com/pallabsarker/Wash_House_Management_System/blob/main/Screenshots/Screenshot_Home.png)
