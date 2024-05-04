@@ -1,6 +1,11 @@
 # Wash House Management System
 ## Name: SS Wash House
-_**This project is an online laundry (clothes wash) ordering system for SS Wash House. To wash clothes of various garments or stores, this system can be used to order clothes for washing.**_
+**The system is developed to ensure proper computerized documentation of ordering
+every piece of cloth for wash and making the manual process into digital. It will
+allow users to track on every wash, proper documentation, choosing wash type etc.
+The users of this system are buyers of garments management, fashion house
+management, enterprise management, brokers etc.
+**
 
 ##
 **Features:**
