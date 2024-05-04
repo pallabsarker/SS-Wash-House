@@ -4,8 +4,7 @@
 every piece of cloth for wash and making the manual process into digital. It will
 allow users to track on every wash, proper documentation, choosing wash type etc.
 The users of this system are buyers of garments management, fashion house
-management, enterprise management, brokers etc.
-**
+management, enterprise management, brokers etc.**
 
 ##
 **Features:**
