@@ -1,5 +1,5 @@
-# Wash House Management System
-## Name: SS Wash House
+# SS Wash House
+## Wash House Management System
 **The system is developed to ensure proper computerized documentation of ordering
 every piece of cloth for wash and making the manual process into digital. It will
 allow users to track on every wash, proper documentation, choosing wash type etc.
